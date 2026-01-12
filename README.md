@@ -1,7 +1,9 @@
 # Olá, eu sou Vinicius Lima! 👋
 
-![Vinicius Stats](https://github-readme-stats.vercel.app/api?username=VCarmoLima&show_icons=true&theme=dracula&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VCarmoLima&layout=compact&theme=dracula&hide_border=true)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VCarmoLima&show_icons=true&theme=dracula&count_private=false&v=2026"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCarmoLima&layout=compact&theme=dracula&v=2026"/>
+</div>
 
 ### 👨‍💻 Sobre Mim
 
