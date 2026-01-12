@@ -1,10 +1,7 @@
 # Olá, eu sou Vinicius Lima! 👋
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VCarmoLima&theme=dracula&hide_border=true" alt="VCarmoLima Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCarmoLima&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Langs" />
-</div>
+![Vinicius Stats](https://github-readme-stats.vercel.app/api?username=VCarmoLima&show_icons=true&theme=dracula&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VCarmoLima&layout=compact&theme=dracula&hide_border=true)
 
 ### 👨‍💻 Sobre Mim
 
