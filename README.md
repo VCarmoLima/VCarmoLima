@@ -1,50 +1,62 @@
 # Olá, eu sou Vinicius Lima! 👋
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VCarmoLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCarmoLima&layout=compact&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VCarmoLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCarmoLima&layout=compact&theme=dracula"/>
 </div>
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software** e atuo como Assistente de Operações focado em **Automação e Dados**. Minha paixão é transformar processos manuais e complexos em soluções eficientes através de código.
+Sou estudante de **Engenharia de Software** e atuo como Assistente de Operações focado em **Automação e Dados**. Minha paixão é criar "gêmeos digitais" de processos manuais, utilizando Python e Visão Computacional para resolver problemas reais de logística e finanças.
 
-* 🎓 Cursando Engenharia de Software na Cruzeiro do Sul - Braz Cubas (2025-2029).
+* 🎓 Cursando Engenharia de Software.
 * 💼 Atualmente desenvolvendo soluções de RPA e ETL na **Loop Brasil**.
-* 🔭 Focado em: **Python, Visão Computacional e Automação de Processos**.
-* 🌱 Estudando: Arquitetura de Software, C# (.NET) e Java.
+* 🔭 Foco atual: **Fine-tuning de modelos (YOLOv11)** e pipelines de **OCR**.
+* 🌱 Estudando: Arquitetura de Software e Java.
 * 🎬 Hobbies: Fotografia, Edição de Vídeo e Cinema.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Ferramentas
 
-**Linguagens & Backend:**
+**🤖 Inteligência Artificial & Visão Computacional**
 <div style="display: inline_block">
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vinicius-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vinicius-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vinicius-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO_v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Roboflow-652ECB?style=for-the-badge&logo=roboflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PaddleOCR-000000?style=for-the-badge&logo=paddlepaddle&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
-**Automação & Dados:**
+**⚡ Automação (RPA) & Backend**
 <div style="display: inline_block">
-  <img align="center" alt="Vinicius-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Vinicius-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Vinicius-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Vinicius-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+**💻 Desenvolvimento & Dados**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-### 🚀 Principais Projetos
+### 🚀 Projetos em Destaque
 
-| Projeto | Tecnologia | Descrição |
+| Projeto | Stack Principal | Detalhes Técnicos |
 | :--- | :---: | :--- |
-| **VisionPlateYOLO** | Python / YOLO | Projeto de Visão Computacional para detecção de elementos. |
-| **Automacao_LoopBrasil** | Python / Selenium | Extração de KMs do Google Maps e upload automático de reembolsos em sistema interno. |
-| **Keep Awake** | PowerShell | Script utilitário para gerenciamento de energia e tela em ambiente Windows. |
-| **DownloadPDF_NewBPA** | Python / RPA | Automação robusta para download e organização em massa de faturas. |
+| **VisionPlateYOLO** | Python, YOLOv11, OpenCV | **Fine-tuning** de modelo YOLO com dataset customizado no **Roboflow** para detecção de placas veiculares + OCR. |
+| **Automacao_LoopBrasil** | Selenium, Pandas, Telegram | Bot que extrai KMs do Google Maps, interage com portal bancário, envia relatórios via **Outlook** e alertas no **Telegram**. |
+| **powershell-keep-awake** | PowerShell, VBScript | Ferramenta de sistema (SysAdmin) para gerenciamento de energia com execução *headless* (invisível). |
+| **DownloadPDF_NewBPA** | Python, RPA | Automação de alto volume para download, validação de datas e organização de faturas financeiras. |
 
 ---
 
