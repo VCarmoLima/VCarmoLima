@@ -1,21 +1,21 @@
 # Olá, eu sou Vinicius Lima! 👋
 
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
 Sou estudante de **Engenharia de Software** e atuo como Assistente de Operações focado em **Automação e Dados**. Minha paixão é criar "gêmeos digitais" de processos manuais, utilizando Python e Visão Computacional para resolver problemas reais de logística e finanças.
 
-* 🎓 Cursando Engenharia de Software.
-* 💼 Atualmente desenvolvendo soluções de RPA e ETL na **Loop Brasil**.
-* 🔭 Foco atual: **Fine-tuning de modelos (YOLOv11)** e pipelines de **OCR**.
-* 🌱 Estudando: Arquitetura de Software e Java.
-* 🎬 Hobbies: Fotografia, Edição de Vídeo e Cinema.
+*  Cursando Engenharia de Software.
+*  Atualmente desenvolvendo soluções de RPA e ETL na **Loop Brasil**.
+*  Foco atual: **Fine-tuning de modelos (YOLOv11)** e pipelines de **OCR**.
+*  Estudando: Arquitetura de Software e Java.
+*  Hobbies: Fotografia, Edição de Vídeo e Cinema.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### Tech Stack & Ferramentas
 
-**🤖 Inteligência Artificial & Visão Computacional**
+** Inteligência Artificial & Visão Computacional**
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -25,7 +25,7 @@ Sou estudante de **Engenharia de Software** e atuo como Assistente de Operaçõe
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
-**⚡ Automação (RPA) & Backend**
+** Automação (RPA) & Backend**
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -34,7 +34,7 @@ Sou estudante de **Engenharia de Software** e atuo como Assistente de Operaçõe
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
-**💻 Desenvolvimento & Dados**
+** Desenvolvimento & Dados**
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -45,7 +45,7 @@ Sou estudante de **Engenharia de Software** e atuo como Assistente de Operaçõe
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Stack Principal | Detalhes Técnicos |
 | :--- | :---: | :--- |
@@ -56,7 +56,7 @@ Sou estudante de **Engenharia de Software** e atuo como Assistente de Operaçõe
 
 ---
 
-### 🐍 Minhas Contribuições
+### Minhas Contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VCarmoLima/VCarmoLima/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VCarmoLima/VCarmoLima/output/github-contribution-grid-snake.svg">
