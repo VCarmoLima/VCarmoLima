@@ -20,6 +20,8 @@ Minha especialidade é transformar processos manuais e burocráticos em **Plataf
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 **Visão Computacional & IA**
@@ -28,6 +30,7 @@ Minha especialidade é transformar processos manuais e burocráticos em **Plataf
   <img src="https://img.shields.io/badge/YOLO_v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/Roboflow-652ECB?style=for-the-badge&logo=roboflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PaddleOCR-000000?style=for-the-badge&logo=paddlepaddle&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />  
 </div>
 
 **Automação (RPA) & Dados**
