@@ -13,30 +13,29 @@ Minha especialidade é transformar processos manuais e burocráticos em **Plataf
 
 ---
 
-### Tech Stack & Ferramentas
-
-**Desenvolvimento Web & SaaS**
+**Engenharia de Software & SaaS**
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-**Automação (RPA) & Backend**
+**Visão Computacional & IA**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO_v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Roboflow-652ECB?style=for-the-badge&logo=roboflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PaddleOCR-000000?style=for-the-badge&logo=paddlepaddle&logoColor=white" />
+</div>
+
+**Automação (RPA) & Dados**
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SMTP_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
-</div>
-
-**Dados & Ferramentas**
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
