@@ -1,4 +1,4 @@
-# Vinícius Lima
+# Vinícius do Carmo Lima
 **Software Engineer & Developer**
 
 Atuo no desenvolvimento de soluções digitais voltadas para otimização de operações, logística e inteligência de dados. Minha especialidade é arquitetar ecossistemas End-to-End que transformam processos manuais e burocráticos em Plataformas SaaS escaláveis e Automações Inteligentes, garantindo eficiência, rastreabilidade e governança corporativa.
