@@ -45,7 +45,6 @@ O meu foco atual está na construção de arquiteturas modernas, desenvolvimento
 
 | Projeto | Stack | Descrição Arquitetural |
 | :--- | :---: | :--- |
-| **Logística BID (SaaS)** | React, TypeScript, Next.js, Supabase | **Plataforma Enterprise de Gestão.** Arquitetura Full Stack contemplando gestão de acessos (RBAC), auditoria de dados em tempo real, disparo de e-mails transacionais e dashboards de compliance. |
 | **VisionPlate ANPR** | Python, YOLOv11, OpenCV | **Sistema de Visão Computacional.** Implementação de rede neural para detecção, rastreamento e leitura automatizada de placas veiculares utilizando modelos fine-tuned e OCR. |
 | **Extrator de Dados Estruturados** | Python, pdfplumber, Pandas | **Ferramenta de Data Engineering.** Engine de extração e higienização de dados complexos, convertendo layouts não estruturados em arquivos PDF para datasets organizados e prontos para análise. |
 
